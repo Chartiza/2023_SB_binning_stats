@@ -2,3 +2,7 @@ input/ContigsRNumbStats_BGI.csv
 input/First_clusters_details.xlsx
 results/SingleBinner_bins_stats.xlsx
 input/SB_stats1.csv
+input/MBins_list_143-299_input.csv
+input/MBins_list_1-142.csv
+input/MBins_list_143-299.csv
+input/MBins_list_300-449.csv
