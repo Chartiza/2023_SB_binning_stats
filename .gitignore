@@ -8,5 +8,6 @@ input/MBins_list_143-299.csv
 input/MBins_list_300-449.csv
 input/MB_stats1.csv
 results/AllBinner_bins_stats.xlsx
-
 results/SinleBinner_bins_stats2.xlsx
+results/MB_stats.xlsx
+input/Clusters_all_table.xlsx
